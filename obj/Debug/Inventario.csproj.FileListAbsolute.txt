@@ -1,0 +1,10 @@
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\JHONATAN\OneDrive\Imágenes\Capturas de pantalla\Escritorio\Estructura de datos\ConsolidadoFase5\Inventario\Inventario\obj\Debug\Inventario.pdb
